@@ -1,6 +1,6 @@
 # lab04-BaoTheGoat
 
-## Who did what
+# Who did what
 
 | Member | Git Username | File |
 |---|---|---|
