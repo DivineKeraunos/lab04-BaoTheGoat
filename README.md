@@ -21,6 +21,9 @@ Git couldn't automatically merge the file because multiple team members modified
 
 #  Git Contribution Summary
 
+
+## Reflection Questions
+
 1. Why was your push rejected, and how did you fix it?
    My push was rejected because another team member pushed changes to the GitHub repository before me. I fixed it by using git pull to get the latest changes and then git push again.
 
