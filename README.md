@@ -21,8 +21,23 @@ Git couldn't automatically merge the file because multiple team members modified
 
 #  Git Contribution Summary
 
+$ git shortlog -sn
+     7  DivineKeraunos
+     7  Zwe Naing Set
+     4  Aung Thet Khine
+     4  ScottG619
+     3  Hiruto shinn
+     2  Makeat0
+     1  Sailinthant
+     1  ShinnThanttAungg
 
-## Reflection Questions
+Zwe Naing Set - (DivineKeraunos + Zwe Naing Set)
+Shin Thant Aung - (Makeat0 + ShinnThanttAungg)
+Sai Lin Thant Maung - (Hirtuo + Sailinthant)
+Hein Naing Soe - (ScottG619)
+Aung Thet Khine - (Aung Thet Khine)
+
+# Reflection Questions
 
 1. Why was your push rejected, and how did you fix it?
    My push was rejected because another team member pushed changes to the GitHub repository before me. I fixed it by using git pull to get the latest changes and then git push again.
