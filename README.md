@@ -21,3 +21,17 @@ Git couldn't automatically merge the file because multiple team members modified
 
 #  Git Contribution Summary
 
+1. Why was your push rejected, and how did you fix it?
+   My push was rejected because another team member pushed changes to the GitHub repository before me. I fixed it by using git pull to get the latest changes and then git push again.
+
+2. Why could Git not resolve the README conflict automatically?
+   Git could not resolve the conflict because different team members changed the same part of the README.md at the same time. Git could not decide which version should be kept, so we resolved it manually.
+
+3. What is the difference between committing and pushing?
+   Committing saves the changes in the local Git repository on my computer. Pushing uploads those commits to the shared GitHub repository so other team members can see them.
+
+4. How do fixtures reduce duplicated setup code in tests?
+   Fixtures provide reusable setup code for tests, such as creating a BankAccount(100). This means multiple tests can use the same setup without writing the same code again.
+   
+
+
